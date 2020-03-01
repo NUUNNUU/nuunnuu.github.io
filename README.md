@@ -5,5 +5,5 @@
   <p> I want to get new laptop with nice GPU this Christmas. <br /> I like playing Kartrider.</p>
 
 <h2> Picture </h2>
-  <p> This is a picture of a polar bear </p>
-  <img src="http://en.wikipedia.org/wiki/Polar_bear#/media/File:Polar_Bear_-_Alaska_(cropped).jpg" />
+  <p> This is a picture of a bear </p>
+  <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" />
